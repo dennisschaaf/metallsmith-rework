@@ -1,0 +1,11 @@
+.sub-directory {
+  background: url("//google.com/some/testing.jpg");
+}
+
+.sub-directory-b {
+  background: url("http://example.com/super/testing.jpg");
+}
+
+.sub-directory-b {
+  background: url("http://example.com/subfolder/relatively/normal.jpg");
+}

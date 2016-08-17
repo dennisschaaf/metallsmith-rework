@@ -1,0 +1,15 @@
+.fade-in-down-big {
+  background: url("http://example.com/some/path/test.jpg");
+}
+
+.fade-in-down-small {
+  background: url("http://example.com/some/more/test.jpg");
+}
+
+.fade-in-down-medium {
+  background: url("http://google.com/some/testing.jpg");
+}
+
+.fade-in-down-extra-medium {
+  background: url("//google.com/some/testing.jpg");
+}
